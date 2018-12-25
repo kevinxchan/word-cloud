@@ -14,7 +14,7 @@ A simple pipeline to generate a word cloud between you and another individual fr
 	python parser.py -x /path/to/xml/convo_foo.xml -j /path/to/json/convo_foo.json -o /out/path
 	```
 
-4. Go online and pick from any of the myriad word cloud visualizers out there that accept plain text files as input, and upload `plain.txt` to visualize it. I like [Tag Crowd][ag-crowd] since it allows some options for how to treat different words (ex: word frequencies, excluding words, etc.). If you're looking for a particular shape, [Word Art][word-art] has a bunch. Note however, that the images may be slightly worse quality unless you pay for downloading in HQ.
+4. Go online and pick from any of the myriad word cloud visualizers out there that accept plain text files as input, and upload `plain.txt` to visualize it. I like [Tag Crowd][tag-crowd] since it allows some options for how to treat different words (ex: word frequencies, excluding words, etc.). If you're looking for a particular shape, [Word Art][word-art] has a bunch. Note however, that the images may be slightly worse quality unless you pay for downloading in HQ.
 
 [fb-msg]: https://www.messenger.com/
 [sms-app]: https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore&hl=en
